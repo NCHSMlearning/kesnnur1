@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import LoadingScreen from './components/LoadingScreen'
-import Background3D from './components/Background3D'
+import Background3D from './components/Background3D' 
 import VoiceAssistant from './components/VoiceAssistant'
 
 // Lazy load pages
